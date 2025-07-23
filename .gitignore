@@ -1,0 +1,25 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# IDE specific files
+.idea/  # For PyCharm or IntelliJ IDEA
+.vscode/ # For VS Code
+*.iml
+
+# Operating System Files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Other common ignored files
+.env # Environment variables
+*.log
+*.sqlite3 # If you have a local SQLite database
+/dist/
+/build/
+*.egg-info/
