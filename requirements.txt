@@ -2,8 +2,8 @@ fastapi
 uvicorn
 numpy
 Pillow
-opencv-python
+opencv-python-headless 
 python-multipart
 PyWavelets
-tensorflow==2.13.0
+tensorflow
 scikit-learn
