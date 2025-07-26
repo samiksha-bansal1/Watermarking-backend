@@ -5,5 +5,5 @@ Pillow
 opencv-python
 python-multipart
 PyWavelets
-tensorflow
+tensorflow==2.13.0
 scikit-learn
